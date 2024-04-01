@@ -1,1 +1,1 @@
-# CLM_T5_yelp_amazon
+# Causal language modeling of T5 on yelp-polarity and amazon-polarity
